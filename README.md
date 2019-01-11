@@ -1,2 +1,2 @@
 # Thirsty
-#######A simple responsive post page.
+###### A simple responsive post page.
